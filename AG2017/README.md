@@ -1,3 +1,4 @@
+**Attention:** pour tester en local, les fichiers doivent être servis par un serveur web.
 
 ## Structure
 Les slides par section sont dans des fichiers markdown à part.
@@ -17,6 +18,7 @@ inclus dans *index.html* de cette manière :
 * Possibilité d'ajouter des notes pour le speaker (touche **s** pour faire apparaitre la fenêtre)
 
 Exemple :
+
     # slide 1
     * point 1.1
     * point 2.1

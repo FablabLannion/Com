@@ -3,54 +3,53 @@
 
 ## Respect des statuts 1/2
 * Fablab (référence MIT) : [AAAB](http://wiki.fablab.is/wiki/Fab_Lab_conformity_rating)
-* ouverture à tous
-* charte des fablab
-* **découpeuse vinyl**
-* participation à la communauté
-* Réappropriation technique
-* ateliers de réparation
-* diffusion de matériel
+ * ouverture à tous
+ * charte des fablab
+ * **découpeuse vinyl** 😂
+ * participation à la communauté
+* Réappropriation technique 😐
+ * diffusion de matériel
 Note: passage de AABB à AAAB
+😂 😊 😐 😞
 
 
 ## Respect des statuts 2/2
-* 3R : Réduire, Réutiliser, Recycler
-* récupération en déchetterie
-* Promotion du logiciel et matériel Libre
-* utilisation quasi-exclusive de logiciels libres
-* Libre en fête 2016
-</section>
+* 3R : Réduire, Réutiliser, Recycler 😊
+ * récupération en déchetterie
+* Promotion du logiciel et matériel Libre 😊
+ * utilisation quasi-exclusive de logiciels libres
 
 
-## Objectifs 2016 1/3
-* Une découpeuse plasma &#9786;
-* en cours ...
-* Organisation de sessions enfants en partenariat avec la fondation Orange &#9786;
-* 5 ateliers junior, ~50 enfants
-* Etude sur le recrutement d'un permanent &#9786;
-* service civique à 50%
-* étude pour un mécénat de compétences
-
-![Orange](img/FondationOrange.jpg)
+## Objectifs 2017 1/3
+### Plus de créneaux !
+* Services civiques 😊
+* Formation Fab Managers 😊
+* Un (semi)Permanent 😞
+* Meilleure gestion/communication des formations (inscription a l'avance) 😐
 
 
-## Objectifs 2016 2/3
-* Une proposition Fablab 2017 en ligne avec la maison des entreprises &#128528;
-* discussions avancées avec LTC : Fablab 2018
-* Leader dans l'organisation de libre en Fête 2016 &#128514;
-* énorme succès !
-* Trouver des débouchées pour le recyclage de PC &#9786;
-* ventes en ligne avec nos capacités
+## Objectifs 2017 2/3
+### Fablab 2018
+* Maison des entreprises (ou autre) 😐
+* Diversification des sources de financement
+ * Subvention région ... 😊
+ * Ventes (Bornes, Trender, Puzzles ...) 😂
+ * Reconditionnement PC (Quid objèterie ?)
+ * Rescrit fiscal ? 😞
+* Plus d'ouverture vers les entreprises 😐
+Note: AG maison des Et
 
-![LTC](img/LTC.png)
 
-
-## Objectifs 2016 3/3
-* Formalisation fabmanager et cout d'utilisation des machines &#9786;
-* gros travail de formalisation et documentation
-* à poursuivre ...
-* Rapprochement avec des associations artistiques/créatives? &#128528;
-* Les artistes commencent à venir vers nous
+## Objectifs 2017 3/3
+### Machines
+* Découpeuse plasma 😊
+* Découpeuse vinyl 😊
+* Brodeuse numérique 😞
+* Petite decoupeuse laser 😊
+* Imprimante 3D haute qualité 😊
+* Machines métal ? (plieuse, scie) 😊
+Note: Brodeuse annulée en AG
+TODO: retrouver date AG
 
 
 ## Association
