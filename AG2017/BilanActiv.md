@@ -28,9 +28,6 @@
 * 07/10 : Fête de la science
 * Appel à projet Orange Solidaires
 
-![FrenchTech](img/french.jpg)
-
-
 ## Novembre - Décembre
 * 22/11 : Présentation de Trender dans la news letter Anticipa
 * 09/12 : Atelier Découpe Laser de Noël
