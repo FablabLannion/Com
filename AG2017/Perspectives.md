@@ -2,22 +2,24 @@
 
 
 ## Plus de créneaux !
-* Service Civique Petits Débrouillards + Mécénat de Compténces Mission Local
+* Service Civique Petits Débrouillards + Mécénat de Compétences Mission Locale ?
 * Formation Fab Managers (Cycle en cours)
 * Meilleure gestion/communication des formations (inscription a l'avance)
+Note: plus de formations ?
 
 
 ## Fablab 2018
 * Maison des entreprises : Le projet suit sont cours...
 * Diversification des sources de financement
-* Subvention région/LTC/CG22 : Attente des versements
-* Libre en Fête 2018
+* Subvention Région/LTC/CG22 : Attente des versements
+* **Libre en Fête 2018**
 * Faire et faire connaître
+
 
 ## Machines
 * Appropriation du parc machine
-* Documentation 
-* Exemple
+* Documentation / Formation
+* Exemples
 * Utilisation des machines par le plus grand nombre !
 
 
@@ -36,6 +38,14 @@
 * Adonnantes en Mai
 * Libre en Fête 2018 Le 25 Mars
 * Portes ouvertes ?
+
+
+## Compagnons numériques
+* Mission locale / Fablab / Fondation orange
+* Redonner confiance par le **faire**
+* Mécénat de compétences / 3 ans
+
+![fondation](img/FondationOrange.jpg)
 
 
 # Remarques ou questions ?

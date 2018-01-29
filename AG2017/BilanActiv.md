@@ -6,7 +6,6 @@
 * Cycle de formation de Fabmanagers
 
 
-
 ## Mars - Avril
 * 22/03 : Formation à LoPy (Objets Connectés)
 
@@ -18,15 +17,18 @@
 * 22/06 : Le midi visite du FabLab par Enedis, le soir visite VIP Nokia
 * 25/06 : Grand Oral Pays du Trégor-Goëlo
 
+
 ## Juillet - Aout
 * 01/07 : Barbecue du Fablab
 * Fablab ouvert (presque) tout l'été
+
 
 ## Septembre - Octobre
 * 09/09 : Forum des associations
 * Lancement Libre en Fête 2018 !
 * 07/10 : Fête de la science
 * Appel à projet Orange Solidaires
+
 
 ## Novembre - Décembre
 * 22/11 : Présentation de Trender dans la news letter Anticipa

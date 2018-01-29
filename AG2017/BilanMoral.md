@@ -3,10 +3,10 @@
 
 ## Respect des statuts 1/2
 * Fablab (référence MIT) : [AAAB](http://wiki.fablab.is/wiki/Fab_Lab_conformity_rating)
- * ouverture à tous
- * charte des fablab
+ * ouverture à tous 😊
+ * charte des fablab 😊
  * **découpeuse vinyl** 😂
- * participation à la communauté
+ * participation à la communauté 😐
 * Réappropriation technique 😐
  * diffusion de matériel
 Note: passage de AABB à AAAB
@@ -26,6 +26,10 @@ Note: passage de AABB à AAAB
 * Formation Fab Managers 😊
 * Un (semi)Permanent 😞
 * Meilleure gestion/communication des formations (inscription a l'avance) 😐
+Note:
+services civiques 6 mois
+créneau du vendredi aprem et samedi
+formation fabmanager janvier/février
 
 
 ## Objectifs 2017 2/3
@@ -33,7 +37,7 @@ Note: passage de AABB à AAAB
 * Maison des entreprises (ou autre) 😐
 * Diversification des sources de financement
  * Subvention région ... 😊
- * Ventes (Bornes, Trender, Puzzles ...) 😂
+ * Ventes (Bornes, **Trender**, Puzzles ...) 😂
  * Reconditionnement PC (Quid objèterie ?)
  * Rescrit fiscal ? 😞
 * Plus d'ouverture vers les entreprises 😐
@@ -48,58 +52,36 @@ Note: AG maison des Et
 * Petite decoupeuse laser 😊
 * Imprimante 3D haute qualité 😊
 * Machines métal ? (plieuse, scie) 😊
-Note: Brodeuse annulée en AG
-TODO: retrouver date AG
+Note: Brodeuse annulée en CA 20/9/17
+http://wiki.fablab-lannion.org//index.php?title=CA20Septembre2017
 
 
 ## Association
-* Emancipation du [co-working](http://www.coworking-lannion.org/)
-* Renouvellement/expansion du public
+* Beaucoup de nouvelles machines
 * Création de [contenus pédagogique](http://wiki.fablab-lannion.org/index.php?title=Cat%C3%A9gorie:Formation)
-* Support continu aux petits debrouillards
-* Pouvoir adjudicateur (subvention Région/Europe)
-* Nouveau [site web](http://www.fablab-lannion.org/) et ERP
-* Adhésion de Orange et Nokia
+* Baisse activités PtiDeb
+* Subvention Région
+* Adhésion de Orange, Enedis
+* Ouverture toute l'année à 18h
 
 
 ## Projets / Machines
-* Mise en place de référents machines
 * Fabrication découpeuse [plasma](http://wiki.fablab-lannion.org//index.php?title=Plasma)
-* Reprise de [Bzzz](http://wiki.fablab-lannion.org//index.php?title=Bzzz) et [Macareux](http://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux)
-* Bornes [d'arcade](http://wiki.fablab-lannion.org/index.php?title=Borne_d%27arcade)
-* [Trender](http://wiki.fablab-lannion.org/index.php?title=Trender)
-* [WakeUp](http://wiki.fablab-lannion.org/index.php?title=IR-WolAndShut) pour personnes à mobilité réduite
-* Challenge Innovation (Dôme, Pommeau de douche)
-
-![borne](img/arcade.jpg)
+* [Bzzz](http://wiki.fablab-lannion.org//index.php?title=Bzzz) et [Macareux](http://wiki.fablab-lannion.org/index.php?title=Comptage_Macareux)
+* Projets Laser
+* ...
 
 
-## Reconditionnement 1/2
-* [Collecte](http://wiki.fablab-lannion.org/index.php?title=R%C3%A9cup%C3%A9ration)
-* 1 fois par semaine
-* 1 fois tous les 15 jours depuis novembre (moins de matériel)
-* standby du 15 juillet au 1er septembre
-* PC portables difficiles
-* 1500€ de pc vendus
-
-
-## Reconditionnement 2/2
-
-|     | Récup. | Réparation | Retour | À traiter |
-| --- | --- | --- | --- | --- |
-| Fixes | 101 | 24:24% | 38:38% | 39:39% |
-| Portables | 25 | 0:0% | 7:28% | 18:72% |
-| Écrans | 57 | 32:56% | 20:35% | 5:9% |
-| Claviers | 19
-| Souris | 14
+## Trender
+* Gros succès de l'année.
+[![Trender](img/Trender2017.png)](img/Trender2017.png)
 
 
 ## Quelques chiffres
-* 75+10 Adhérents, en baisse, mais meilleure fidélisation
-* ~ 200 Personnes enregistrées sur le forum
-* 5 ateliers Junior, ~ 50 enfants
-* 50 Heures de découpeuse Laser facturées
-* 800 personnes à Libre en Fête
+* ~70 Adhérents, avec renouvellement
+* 273 Personnes enregistrées sur le forum / 4400+ messages
+* XX Heures de découpeuse Laser facturées
+Note: perte de base en cours d'année, pas sur du nombre réèl d'adhérents :(
 
 
 # Remarques ou questions ?

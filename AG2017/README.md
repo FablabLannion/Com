@@ -1,5 +1,11 @@
 **Attention:** pour tester en local, les fichiers doivent être servis par un serveur web.
 
+Le plus simple est d'utiliser python :
+    cd Com/
+    python -m SimpleHTTPServer 8080
+et de pointer son navigateur sur *http://localhost:8080/AG2017/*
+
+
 ## Structure
 Les slides par section sont dans des fichiers markdown à part.
 inclus dans *index.html* de cette manière :
@@ -14,7 +20,7 @@ inclus dans *index.html* de cette manière :
 
 ## Format fichiers slides
 
-* 2 retours chariot entre chaque slide
+* **2 retours chariot** entre chaque slide
 * Possibilité d'ajouter des notes pour le speaker (touche **s** pour faire apparaitre la fenêtre)
 
 Exemple :
