@@ -1,45 +1,43 @@
-# 2021
+# 2022
 ____
 
 ## Association
 
-Gros challenge: gérer les déménagement et les containtes COVID19
-
-- Faire le choix du lieu -> CA Extraordinaire pour valider le choix.
-- Réaliser le déménagement dans les meilleurs conditions
-- Garder le lien avec les adhérents et faire revenir tout le monde :)
-- Renouveller le bureau
+- Etude sur l'embauche d'un permanent
+- Poursuite de l'étude du rescrit fiscal
 
 ____
 
 ## Machines
 
-- Atelier tissus à compléter (brodeuse en particulier - subv CD22)
 - Détecteur de particules à continuer
-- 2 antennes LoRa en plus pour Bégard et Caouennec
+- Poursuite du réseau LoRa
 
 ____
 
 ## Événements
 
-- [libre en fête 2021]: ANNULE
+- Inauguration officielle janvier 2022 avec Les Micro Folies
+- Atelier CO2
+- Four à Pizza
 
 Si possible:
 
+- Libre en fête 2022: Une opération à petite échelle avec Code D'Armor ?
 - Fête de la science
 - Forum des associations
-- Crémaillère
 - Portes ouvertes
-- Atelier qualité de l'air avec Infothéma - Bégard, Caouennec, Lannion
+- Atelier qualité de l'air
 
 ____
 
 ## Communauté
 
 - Liens à monter suite au déménagement:
-  - avec FJT ?
-  - avec ENSSAT ?
-- Projet Maison de l'emploi ?
+  - avec FJT
+  - avec ENSSAT
+  - avec la Ville de Lannion
+  - avec Activitées sociales LTC
 
 ____
 
