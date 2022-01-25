@@ -90,7 +90,7 @@ ____
 
 ## Association
 
-- Déménagement sans accrocs.
+- Déménagement sans accrocs (ou presque 🦷)
 - Ouverture à 18h le Mercredi et 9h30-17h30 tous les vendredi
 - Élargissement et diversification des profils et usages du lieu 😊
 - Augmentation des interactions avec le territoire 😊
