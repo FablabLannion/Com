@@ -18,16 +18,18 @@ ____
 ## Respect des statuts 2/3
 
 - 3R: Réduire, Réutiliser, Recycler 😊
+  - Nouvelles poubelles pour le recyclage
+- PC:
   - Vente et recyclage de tous les PC récupérés
   - Seul une petite quantité sera désormais stockée sur site
-  - Le matériel non gardé sera proposé 15j aux adhérents, puis recyclés
+  - Le matériel non gardé sera proposé 15j aux adhérents, puis recyclé
 
 ____
 
 ## Respect des statuts 3/3
 
 - Promotion du logiciel et matériel Libre 😊
-  - utilisation quasi-exclusive de logiciels libres
+  - utilisation prioritaire de logiciels libres
   - documentation ouverte des projets
   - diffusion du code des projets sous license libre (Clinostat, CO2...)
 
@@ -38,15 +40,16 @@ ____
 ### Association
 
 - Concrétisation des créneaux 😊
-- Nouveaux locaux: on va en parler 😐
+- Nouveaux locaux: on va en parler 😊
 
 ### Machines
 
 - Atelier tissus:
   - cet atelier à parfaitement trouvé sa place dans nos locaux
   - Achat de la brodeuse numérique !!! 😊
-- L'imprimante 3D Résine Elegoo Mars Pro2 fonctionne bien et 
-  remplace dans les fais la Form2 qui est beaucoup plus cher.
+- L'imprimante 3D Résine Elegoo Mars Pro2 fonctionne bien et
+  remplace dans les faits la Form2 qui est beaucoup plus chère
+  à l'usage.
 
 ____
 
@@ -88,8 +91,7 @@ ____
 ## Association
 
 - Déménagement sans accrocs.
-- Ouverture à 18h le Mercredi et 9h30-17h30 le Vendredi en fonction des
-  possibilités
+- Ouverture à 18h le Mercredi et 9h30-17h30 tous les vendredi
 - Élargissement et diversification des profils et usages du lieu 😊
 - Augmentation des interactions avec le territoire 😊
 - Quelques newsletter.
@@ -117,6 +119,7 @@ ____
 - 1 PC de modélisation supplémentaire
 - 1 cuve pour air comprimé
 - Matériaux pour du mobilier
+- 1 imprimante laser
 
 ____
 
@@ -132,7 +135,7 @@ ____
 
 ## Quelques chiffres
 
-- 82 membres (y compris 14 pour 2021) - 98 en 2021.
+- 82 membres - 98 en 2021.
 - Forum : 356 membres et 5122 messages.
 - Adhésion Orange:
   - Impressions, découpes et thermoformage
@@ -191,10 +194,11 @@ ____
 
 Quelques infos:
 
-- Loyer; 450€/mois 💰
+- Loyer: 450€/mois 💰
 - Attention au bruit après 22h 📢
-- Pas de frais
-- Forte proximité du FJT, ENSSAT, Mediatèque, MicroFolies, centre ville
+- Pas de frais supplémentaires
+- Bientôt internet sans filtre ?
+- Forte proximité du FJT, ENSSAT, Mediatèque, MicroFolies et du centre ville
 - Il fait chaud, c'est joli 😎
 
 On y est bien non ? 🤗

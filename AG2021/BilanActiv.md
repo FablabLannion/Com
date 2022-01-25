@@ -19,17 +19,17 @@ ____
 ## Juin-Juillet-Août
 
 - 16 Juin: Participation au Jury BTS SNIR Lycée Le Dantec (Projet LoRa)
-- Juin: Début déménagement du lycée
-- Juillet-Aout: Fin déménagement, début aménagement nouveau local
+- Juin: Début du déménagement du lycée
+- Juillet-Aout: Fin du déménagement, début de l'aménagement du nouveau local
 
 ____
 
 ## Septembre-Octobre
 
-- 04 Septembre: participation forum associations
-- 08 Septembre: Réouverture FABLAB
-- 28 Septembre: Début session de formation pour pôle emploi : remédiation numérique
-- 2 et 3 octobre: Participation fête de la science
+- 04 Septembre: participation au forum associations
+- 08 Septembre: Réouverture du FABLAB
+- 28 Septembre: Début de session de formation pour pôle emploi : remédiation numérique
+- 2 et 3 octobre: Participation à la fête de la science
 - 16 Octobre: Journée portes ouvertes
 
 ____
@@ -38,13 +38,14 @@ ____
 
 - Novembre: Néant
 - 04 décembre: Atelier noël
-- 16 décembre: fin 1ère session de formation pôle emploi
+- 16 décembre: fin de la 1ère session de formation pôle emploi
 
 ____
 
 ## Zoom sur projet « remédiation » avec pôle emploi
 
 Formation aux techniques du numérique ouverte à des demandeurs d’emploi:
+
 - 5 personnes par session
 - 3 sessions prévues (3 mois / session)
 - 2D et découpe laser, 3D et impression 3D, Arduino et objets connectés  

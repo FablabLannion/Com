@@ -8,26 +8,26 @@ ____
 
 ____
 
-## Machines
+## Ateliers
 
-- Détecteur de particules à continuer
+- Détecteur de CO2
+- Détecteur de particules
 - Poursuite du réseau LoRa
+- Four à Pizza
+- ...
 
 ____
 
 ## Événements
 
 - Inauguration officielle janvier 2022 avec Les Micro Folies
-- Atelier CO2
-- Four à Pizza
 
 Si possible:
 
 - Libre en fête 2022: Une opération à petite échelle avec Code D'Armor ?
-- Fête de la science
+- Fête de la Science
 - Forum des associations
 - Portes ouvertes
-- Atelier qualité de l'air
 
 ____
 
@@ -37,7 +37,7 @@ ____
   - avec FJT
   - avec ENSSAT
   - avec la Ville de Lannion
-  - avec Activitées sociales LTC
+  - avec Pole des activités sociales LTC
 
 ____
 
