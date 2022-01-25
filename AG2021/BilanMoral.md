@@ -56,28 +56,14 @@ ____
 
 - Projet de capteur de particules:
   - Échec du partenariat avec Infothéma 🤐 (projet monté par le Fablab pour Infothéma auprès du CD22)
-  - Poursuite malgré tout du projet sur fonds propres 💪
-- Projet de capteur de CO2:
-  - Montage du projet fin 2021
-  - Premiers prototypes fin 2021
-  - Atelier prévu début février 2022
-
-____
-
-## Objectifs 2021 2/3
-
-### Projets
-
-- Projet de capteur de particules:
-  - Échec du partenariat avec Infothéma 🤐 (projet monté par le Fablab pour Infothéma auprès du CD22)
   - Poursuite du projet sur fonds propres 💪
 - Projet de capteur de CO2 🤔:
-  - Montage du projet fin 2021
-  - Premiers prototypes fin 2021
+  - Montage et premiers prototypes du projet fin 2021
   - Atelier prévu début février 2022
 - Clinostat pour démo FOSM 🚀👩‍🚀:
-  - Clinostat finalisé et packagé 📦
+  - Clinostat finalisé et empaqueté 📦
   - pas d'envoi au final 😕
+
 ____
 
 ## Objectifs 2021 3/3
@@ -91,7 +77,7 @@ ____
 
 ### Événements 
 
-- Libre en Fête ~2020~ / ~2021~ / 2022 ??? 🥺
+- Libre en Fête ~~2020~~ / ~~2021~~ / 2022 ??? 🥺
 - Fête de la science 😊
 - Forum des associations 😊
 - Portes ouvertes 😊
@@ -113,10 +99,12 @@ ____
 ## Compagnons numériques / Projet «remédiation»
 
 Compagnons numériques:
+
 - 1 session de formation débutée avec 4 jeunes, 3 ont repris après le 1er confinement.
   Ils sont allés ensuite jusqu'au bout malgré le contexte.
 
 Projet «remédiation»:
+
 - 1 session de 5 personnes (Cf bilan de Thierry)
 
 ____
@@ -162,9 +150,10 @@ les nouveau locaux, et mets à disposition 50% de nos locaux.
 
 ____
 
-## Déménagement 1/
+## Déménagement 1/6
 
 Historique 2020:
+
 - Rappel: Le Lycée souhaite réutiliser les locaux que nous occupons.
 - Plusieurs pistes ont été envisagées:
   - LTC: Locaux à coté du futur parc expo
@@ -175,81 +164,51 @@ Historique 2020:
 
 ____
 
-## Déménagement 3/
+## Déménagement 2/6
 
 Historique 2021:
+
 - Février: Vote du déménagement
 - Mars/Mai: Libération progressive des locaux
 - Juin: Déménagement complet et nettoyage du Lycée
-- Juillet/Aout: Aménagement dans les nouveaux locaux.
+- Juillet/Août: Aménagement dans les nouveaux locaux.
 - Septembre: Ouverture
   
 ____
 
-## Déménagement 3/
+## Déménagement 3/6
 
-Description des nouveaux locaux
+![ext fjt](img/fjt_plan_1_debut2022.png)
 
-![ext fjt](img/facade2.png)
+____
+## Déménagement 4/6
+
+![ext fjt](img/fjt_plan_2_debut2022.png)
 
 ____
 
-## Déménagement 4/
+## Déménagement 5/6
 
-Droits et devoirs
+Quelques infos:
+
+- Loyer; 450€/mois 💰
+- Attention au bruit après 22h 📢
+- Pas de frais
+- Forte proximité du FJT, ENSSAT, Mediatèque, MicroFolies, centre ville
+- Il fait chaud, c'est joli 😎
+
+On y est bien non ? 🤗
+____
+
+## Déménagement 6/6
+
+__Merci__ au Lycée Le Dantec, au FJT, à tous les bénévoles
+mais surtout, __MERCI__ à la Ville de Lannion
+
+![lannion](https://www.lannion.bzh/images/logos/ville/Logo-ville-lannion-bleu.png)
 
 ____
 
 # Remarques ou questions ?
 
 # Des idées ?
-
-____
-
-## Déménagement 1/3
-
-- Rappel: Le Lycée souhaite réutiliser les locaux que nous occupons.
-- Plusieurs pistes ont été envisagées:
-  - LTC: Locaux à coté du futur parc expo
-  - Plusieurs locaux privés
-  - CROUS
-  - La Mairie de Lannion
-- De nombreuses réunions et visites !
-
-____
-
-## Déménagement 2/3
-
-- Le déménagement prévu à l'origine au 1er janvier 2021 a été repoussé à l'été 2021, graçe à la mairie, qui s'est engagée à nous reloger !
-- 2 pistes sérieuses:
-  - Batiment SEGPA de l'ancien Collège
-    - Réaménagement temporaire avant l'éco-quartier
-    - Donc pour quelques années
-  
-____
-
-## Déménagement 3/3
-- 2ème possibilitée:
-    - Mairie + Foyer de jeunes travailleurs
-        - Près de 170 m2 en plein centre
-        - Aménagement à l'étude par la mairie
-        - Loyer de 450€/mois auprès du FJT
-        - Dossier à compléter avec la mairie.
-
-____
-
-![](img/plan_fjt1.png)
-____
-
-
-![](img/plan_fjt2.png)
-____
-
-
-![](img/fjt.jpg)
-____
-
-![](img/fjt2.jpg)
-____
-
-![](img/fjt3.jpg)
