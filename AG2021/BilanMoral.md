@@ -91,7 +91,7 @@ ____
 
 ### Événements 
 
-- Libre en Fête 2020 / 2021 / 2022 ??? 🥺
+- Libre en Fête ~2020~ / ~2021~ / 2022 ??? 🥺
 - Fête de la science 😊
 - Forum des associations 😊
 - Portes ouvertes 😊
