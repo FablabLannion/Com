@@ -14,6 +14,8 @@ ____
 - Détecteur de particules
 - Poursuite du réseau LoRa
 - Four à Pizza
+- MAJ CNC ?
+- Projet Fédération Open Space Maker ?
 - ...
 
 ____
