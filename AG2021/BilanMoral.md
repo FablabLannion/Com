@@ -73,7 +73,7 @@ ____
 
 ## Communauté
 
-- Compagnons numériques 😊
+- Rémédiation avec pôle emploi lancé et financé 😊
 - Formations 😕
 
 ____
@@ -98,16 +98,13 @@ ____
 
 ____
 
-## Compagnons numériques / Projet «remédiation»
+## Projet «remédiation» avec pôle emploi
 
-Compagnons numériques:
-
-- 1 session de formation débutée avec 4 jeunes, 3 ont repris après le 1er confinement.
-  Ils sont allés ensuite jusqu'au bout malgré le contexte.
 
 Projet «remédiation»:
 
-- 1 session de 5 personnes (Cf bilan de Thierry)
+- 1 session de 5 personnes (Cf bilan de Thierry) en septembre - décembre
+- 2 sessions à venir en 2022
 
 ____
 
