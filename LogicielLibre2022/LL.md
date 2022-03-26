@@ -72,9 +72,10 @@ BSD, MIT, CC:by, Public domain, CeCILL-B, ...
 
 ## LL est partout
 basé ou contenant du logiciel libre :
-* 80% des navigateurs web
+* 90% des navigateurs web
 * 99% des smartphones
 * 90% des serveurs d'internet
+* ...
 Note: 85% android
 
 
