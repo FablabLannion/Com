@@ -6,11 +6,16 @@
 
 		<title>AG2021 - déménagement</title>
 
-		<link rel="stylesheet" href="../css/reveal.css">
-		<link rel="stylesheet" href="../css/theme/fablab.css">
+		<link rel="stylesheet" href="../reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="../reveal.js/dist/theme/white.css" id="theme">
+		<link rel="stylesheet" href="../reveal.js/plugin/highlight/monokai.css">
+
+		<!-- Theme used for Fablab -->
+		<link rel="stylesheet" href="../assets/fablab.css">
 
 		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
+		<link rel="stylesheet" href="../assets/zenburn.css">
+
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -208,28 +213,26 @@
 			</div>
 
 		    <div class='footer'>
-				 <img src="../img/logo-fablab.jpg" alt="Fablab">
-	        </div>
+				<img src="../assets/logo-fablab.jpg" alt="Fablab">
+		   </div>
 		</div>
 
-		<script src="../lib/js/head.min.js"></script>
-		<script src="../js/reveal.js"></script>
+		<script src="../reveal.js/dist/reveal.js"></script>
+        <script src="../reveal.js/plugin/markdown/markdown.js"></script>
+        <script src="../reveal.js/plugin/highlight/highlight.js"></script>
+        <script src="../reveal.js/plugin/notes/notes.js"></script>
+        <script src="../reveal.js/plugin/math/math.js"></script>
 
 		<script>
-			// More info https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				history: true,
 
-				// More info https://github.com/hakimel/reveal.js#dependencies
-				dependencies: [
-					{ src: '../plugin/markdown/marked.js' },
-					{ src: '../plugin/markdown/markdown.js' },
-					{ src: '../plugin/notes/notes.js', async: true },
-					{ src: '../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
 			});
-			// Shows the slide number using default formatting
-			Reveal.configure({ slideNumber: true });
 
 		</script>
 	</body>
