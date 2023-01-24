@@ -1,3 +1,5 @@
+<!-- .slide: data-background="#000" class="chapter" -->
+
 # Bilan moral
 
 ____
@@ -22,7 +24,8 @@ ____
   - Tentative de RepairCafé 😶‍🌫️
   - Réduction du chauffage et de la conso électrique 😇
 - PC:
-  - Poursuite de la vente de PC, mais de moins en moins PC dispo et de demandes
+  - Poursuite de la vente de PC, mais de moins en moins de PC dispo et de
+    demandes
 
 ____
 
@@ -49,7 +52,7 @@ ____
 
 ## Investissements
 
-- 1 PC + équipements artistique
+- 1 PC + équipements artistiques
 - Scanner 3D
 - Matériel pour la Charly Robot
 - Testeur de batterie Vélos

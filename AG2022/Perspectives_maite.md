@@ -1,3 +1,5 @@
+<!-- .slide: data-background="#000" class="chapter" -->
+
 # Missions 2023
 ## Amélioration de la diversité de genre
 
@@ -20,7 +22,11 @@ mission de type RSE
 
 ____
 
+<div style="text-align:center">
+
 <img width=50% src="img/maite.jpg">
+
+</div>
 
 ____
 

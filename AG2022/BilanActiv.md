@@ -1,3 +1,6 @@
+
+<!-- .slide: data-background="#000" class="chapter" -->
+
 # Bilan d'activité 2022
 
 ____
