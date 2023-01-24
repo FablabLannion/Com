@@ -43,7 +43,7 @@ ____
 - Ouverture à 18h le Mercredi et 9h30-17h30 tous les vendredi
 - Élargissement et diversification des profils et usages du lieu 😊
 - Augmentation des interactions avec le territoire 😊
-- Une année sans Thierry comme secrétaire 🤷
+- Une année chaotique coté bureau 🤷
 
 ____
 
