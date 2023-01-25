@@ -17,8 +17,9 @@ ____
 Projet FabLab Mobile et "Je fabrique mon matériel pédagogique"
 
 - Suite à la sélection par le CD22 et la subvention de 3 500€
-- Mise en place d'ateliers gratuits dans écoles qui en feront la demande
-- Mise en place d'ateliers gratuits vers les professeurs dans le Fablab
+- Mise en place des ateliers gratuits dans les écoles (à la demande)
+- Mise en place d'ateliers gratuits à destination des professeurs au FabLab
+
 
 Note:
 Les projets FabLab Mobile et "Je fabrique mon matériel pédagogique" porté
@@ -63,7 +64,7 @@ ____
 - Fête de la Science
 - Forum des associations
 - Portes ouvertes
-- MakerFest à Nantes ?
+- MakerCampus à Nantes ?
 
 ____
 

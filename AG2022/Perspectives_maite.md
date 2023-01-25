@@ -38,8 +38,8 @@ ____
   - Fournir un feedback et des conseils (sondages, analyse, statut sur
     l’existant et conseils)
   - Lancer des ateliers spécifiques
-  - Les nouvelles adhérentes restent
-  - Des femmes deviennent FabManager et intègrent le bureau
+  - Garder les nouvelles adhérentes
+  - Intégrer des femmes au bureau et former des Fabmanager femmes.
 
 ____
 

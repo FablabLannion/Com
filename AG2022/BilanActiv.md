@@ -29,12 +29,12 @@ ____
 - 10.06: Atelier EPHAD Perros Guirec
 - 13.06: Visite du Fablab de Lanvallay
 - 26.06: Festival LowTech à Concarneau
-- 9/10.07: MakerFest à Nantes (Merci Maud, Matthieu et Florian !)
+- 9/10.07: MakerCampus à Nantes (Merci Maud, Matthieu et Florian !)
 - 16.07: Atelier Vélo (avec Trégor Bicyclette)
 
 ____
 
-![MakerFest](img/makerfest.jpg)
+![MakerCampus ](img/makerfest.jpg)
 ____
 
 ## Septembre
