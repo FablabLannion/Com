@@ -1,0 +1,57 @@
+<!-- .slide: data-background="#000" class="chapter" -->
+
+# Bilan financier
+
+____
+
+
+
+**=> un résultat positif de 4.800€ pour un CA total de 30.000€.**
+
+____
+
+![](img/bilan_financier1.png)
+
+____
+
+![](img/bilan_financier2.png)
+
+____
+
+![](img/bilan_financier3.png)
+
+____
+
+![](img/bilan_financier4.png)
+
+____
+
+![](img/bilan_financier5.png)
+
+____
+
+![](img/bilan_financier6.png)
+
+____
+
+## Déclarations obligatoires
+
+- Déplacements : RAS
+- Frais de bouche : ???€
+- Bilan FabLab “total” 2023 = environ XXX€
+
+Heures bénévolat : 
+➕ Loyer équivalent : X.000€ (ex-cantine)
+➕ Mi-temps Florian Vasseur : XX 000€
+
+**Bilan FabLab “total”  =  CA 30 000€  + bilan “caché”**
+
+____
+
+## Classement du FabLab en Établissement d’Intérêt Général
+
+il remplit maintenant
+deux conditions sur trois, et la 3eme devrait être accessible compte tenu des
+nombreuses prestations de formation (20% du bilan en 2021, mais > 60% en 2023).
+
+	
