@@ -10,33 +10,27 @@ ____
 
 ____
 
-![](img/bilan_financier1.png)
+![](img/prévisionnel_2023.png)
 
 ____
 
-![](img/bilan_financier2.png)
+![](img/recettes_2023.png)
 
 ____
 
-![](img/bilan_financier3.png)
+![](img/dépenses_2023.png)
 
 ____
 
-![](img/bilan_financier4.png)
+
+![](img/prévisionnel_2024.png)
 
 ____
 
-![](img/bilan_financier5.png)
-
-____
-
-![](img/bilan_financier6.png)
-
-____
 
 ## Déclarations obligatoires
 
-- Déplacements : RAS
+- Déplacements : 1 formation de Florian à Brest
 - Frais de bouche : ???€
 - Bilan FabLab “total” 2023 = environ XXX€
 

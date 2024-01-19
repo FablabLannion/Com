@@ -31,7 +31,7 @@ ____
 ## Respect des statuts 3/3
 
 - Promotion du logiciel et matériel Libre 😊  - 
-  - utilisation prioritaire de logiciels libres
+  - utilisation prioritaire de logiciels libres (LaserWorks remplacé par Lightburn)
   - documentation ouverte des projets
   - diffusion du code des projets sous license libre
 
@@ -49,7 +49,7 @@ ____
 
 ## Investissements
 
-
+Pas d'investissements majeur en 2023
 ____
 
 ## Coté Machine
@@ -62,7 +62,7 @@ ____
 
 ## Quelques chiffres
 
-- XX membres (sans les membres pro non enregistrés)
+- 150 membres (sans les membres pro non enregistrés)
 - Explosion des adhésion Pro:
   - Nouvelle formule
   - Orange, Ville de Lannion, Mission Locale, Photonics Bretagne, Greta, FJT,
@@ -70,16 +70,6 @@ ____
 
 ____
 
-## Projet «remédiation» avec pôle emploi
-
-Projet «remédiation»:
-
-- 1 session de 6 personnes
-- 1 session annulée
-
-Merci Thierry !
-
-____
 
 ## Nos soutiens
 
