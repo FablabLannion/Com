@@ -1,6 +1,6 @@
 <!-- .slide: data-background="#000" class="chapter" -->
 
-# Perspectives 2023
+# Perspectives 2024
 
 ____
 
@@ -60,7 +60,7 @@ ____
 
 ## Événements "Habituels"
 
-- Libre en fête 2023
+- Libre en fête 2024 ?
 - Fête de la Science
 - Forum des associations
 - Portes ouvertes
@@ -75,7 +75,6 @@ ____
   - ENSSAT
   - la Ville de Lannion
   - Anticipa
-- Liens à créer
   - avec les fablab locaux
   - MakeHer
 
