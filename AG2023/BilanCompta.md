@@ -5,7 +5,6 @@
 ____
 
 
-
 **=> un résultat positif de 4.800€ pour un CA total de 30.000€.**
 
 ____
@@ -47,5 +46,4 @@ ____
 il remplit maintenant
 deux conditions sur trois, et la 3eme devrait être accessible compte tenu des
 nombreuses prestations de formation (20% du bilan en 2021, mais > 60% en 2023).
-
 	

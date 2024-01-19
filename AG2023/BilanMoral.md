@@ -79,6 +79,9 @@ ____
 
 **Anticipa**
 
+**Département des Côtes D'Armor**
+
+**Lannion Trégor Communauté**
 ____
 
 ## Un grand merci !
