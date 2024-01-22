@@ -9,9 +9,6 @@ ____
 
 ____
 
-![](img/prévisionnel_2023.png)
-
-____
 
 ![](img/recettes_2023.png)
 
@@ -21,6 +18,10 @@ ____
 
 ____
 
+
+![](img/prévisionnel_2023.png)
+
+____
 
 ![](img/prévisionnel_2024.png)
 
