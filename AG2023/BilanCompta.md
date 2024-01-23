@@ -34,14 +34,12 @@ ____
 
 - Déplacements : 188€
 - Frais de bouche : 186€
-- Bilan FabLab “total” 2023 = environ 100K€
+- Bilan FabLab “total” 2023 = environ 100K€ (CA 31 000€  + bilan “caché”)
 
  Heures bénévolat : idem 2021, environ un ETP -> 50 000 €/an
 +       Loyer équivalent :  4000€ (ex-cantine)
 +       Mi-temps Florian Vasseur : 10 000€
 +      Détachement Maïté Cartigny : 10 000€
-
-**Bilan FabLab “total”  =  CA 31 000€  + bilan “caché”**
 
 ____
 
