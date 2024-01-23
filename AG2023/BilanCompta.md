@@ -3,7 +3,9 @@
 # Bilan financier
 
 ____
+Avoirs FABLAB au 01/01/2023 : 42.841,50 € 
 
+Détails : 38000€ (CE/CMB) + 4768,60€ (CC/CMB) + 72,9€ (Caisse Hiboutik)
 
 **=> un résultat positif de 4.800€ pour un CA total de 30.000€.**
 
@@ -28,17 +30,18 @@ ____
 ____
 
 
-## Déclarations obligatoires
+## Déclarations obligatoires 2023
 
-- Déplacements : 1 formation de Florian à Brest
-- Frais de bouche : ???€
-- Bilan FabLab “total” 2023 = environ XXX€
+- Déplacements : 188€
+- Frais de bouche : 186€
+- Bilan FabLab “total” 2023 = environ 100K€
 
-Heures bénévolat : 
-➕ Loyer équivalent : X.000€ (ex-cantine)
-➕ Mi-temps Florian Vasseur : XX 000€
+ Heures bénévolat : idem 2021, environ un ETP -> 50 000 €/an
++       Loyer équivalent :  4000€ (ex-cantine)
++       Mi-temps Florian Vasseur : 10 000€
++      Détachement Maïté Cartigny : 10 000€
 
-**Bilan FabLab “total”  =  CA 30 000€  + bilan “caché”**
+**Bilan FabLab “total”  =  CA 31 000€  + bilan “caché”**
 
 ____
 
@@ -47,4 +50,6 @@ ____
 il remplit maintenant
 deux conditions sur trois, et la 3eme devrait être accessible compte tenu des
 nombreuses prestations de formation (20% du bilan en 2021, mais > 60% en 2023).
+
+Obtention du label "Education populaire" : en cours (M. Huonnic)
 	
