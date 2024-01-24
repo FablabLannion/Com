@@ -76,7 +76,7 @@ Vos Idées et Retours sont Importants ! pour notre réglement intérieur (qui se
 
 - **Partagez vos idées :** Nous encourageons chaque membre à partager ses idées et suggestions pour façonner ensemble le futur de notre FabLab.
 
-- **sollicitez votre CA :** Le document original et le travail de révision sont accéssibles en ligne sur le wiki d FabLab, n'hésitez pas à le consulter, proposez directement sur le wiki ou par courriel à bureau@fablab-lannion.com .
+- **sollicitez votre CA :** Le document original et le travail de révision sont accéssibles en ligne sur le wiki d FabLab, n'hésitez pas à le consulter, proposez directement sur le wiki ou par courriel à bureau@fablab-lannion.org .
 
 ____
 
