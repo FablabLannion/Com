@@ -49,6 +49,8 @@ Pourquoi une Révision ?
 - **Meilleure Visibilité :** Une mise à jour permettra d'assurer une meilleure compréhension de notre structure par les administrations, partenaires territoriaux et autres parties prenantes.
 
 - **Évolution en Employeur :** En tant qu'employeur, nous devons nous assurer que nos documents internes reflètent correctement notre structure, nos valeurs et nos engagements.
+- 
+____
 
 Objectifs
 
@@ -58,6 +60,8 @@ Objectifs
 
 - **Adaptation :** Intégrer les évolutions liées à notre statut d'employeur et aux changements dans notre mode de fonctionnement.
 
+____
+
 Implication des Membres - vote des statuts aujourd'hui
 
 - **Consultation :** Nous avons sollicité le plus largement possible les retours et suggestions tout au long du processus de révision.
@@ -66,7 +70,7 @@ Implication des Membres - vote des statuts aujourd'hui
 
 - **Participation :** Le processus de révision se veut transparent, et chaque membre aura l'occasion de suggerer des amandement durant l'année à venir. n'hésitez pas à vous impliquer dnas la révision de notre réglement intérieur.
 
----
+____
 
 Vos Idées et Retours sont Importants ! pour notre réglement intérieur (qui sera voté en CA en Février)
 
@@ -148,5 +152,3 @@ ____
 n'oubliez pas le temps des proposition et suggestions durant le verre de l'amitié 
 
 ____
-
-on passe aux votes ! (?) 
