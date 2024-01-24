@@ -26,9 +26,9 @@ ____
 
 **Total Annuel :** 96 Activités, 658 Participants
 
-et sa continue avec une programation mensuelle 
+et ça continue avec une programation mensuelle 
 ____
 
-Mettre en avant des points particuliers?
-vos activités preferés ? envie de proposé des animation ? 
+Vos activités preferées ?
+Envie de proposer des animations ? 
 
