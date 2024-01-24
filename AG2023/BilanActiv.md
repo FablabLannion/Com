@@ -24,6 +24,7 @@ ____
 | Décembre  | 12                 | 89                          |
 
 <!-- Ajoutez les autres mois et totaux nécessaires -->
+____
 
 **Total Annuel :** 96 Activités, 658 Participants
 
