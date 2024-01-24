@@ -149,7 +149,7 @@ ____
 ____
 ##  Bilan en nombre de ventes
 
-<img class="r-stretch" src="img/bilanventes.jpg" style="border: none; box-shadow: none;">
+<img class="r-stretch" src="img/bilanventes.JPG" style="border: none; box-shadow: none;">
 
 ____
 ##  Perspectives
