@@ -14,6 +14,8 @@ ____
 - Ré-appropriation technique 😊
   - diffusion de matériel
 - Ouverture vers les autres fablab et communauté des makers 😊
+  - local avec IUT ENSSAT et les fablab du coin
+  - régional avec notement NantesMakerCampus avec le LabFab de Rennes et les autres FabLab de Bretagne 
 
 ____
 
@@ -24,7 +26,7 @@ ____
   - Tentative de RepairCafé 😶‍🌫️
   - Réduction du chauffage et de la conso électrique 😇
 - PC:
-  - A relancer ? Il y a des demandes et un peu de ressources
+  - Il y a des demandes et un peu de ressources
 
 ____
 
@@ -39,10 +41,15 @@ ____
 
 ## Association
 
-- Arrivée de Florian en tant qu'alternant 🥳
+- Arrivée de Florian en tant qu'employé 🥳
 - Actions de Maïté en 2023 pour l'amélioration de la diversité de genre 🥳
+  - avec MakeHerSpace
+  - panneautage
+  - exposition
 - Ouverture à 18h le Mercredi, 9h30-17h30 tous les vendredi 9h30-12h30 2 samedis par mois
 - Élargissement et diversification des profils et usages du lieu 😊
+  - action Mission Local
+  - portes ouvertes étudiantes
 - Augmentation des interactions avec le territoire 😊
 
 ____
@@ -99,3 +106,10 @@ ____
 
 # Remarques ou questions ?
 
+🎤 N'hésitez pas à lever la main virtuelle ou à utiliser le chat pour partager vos remarques ou poser vos questions ! 🤔
+
+n'oubliez pas le temps des proposition et suggestions durant le verre de l'amitié 
+
+____
+
+on passe au vote ! (?) 
