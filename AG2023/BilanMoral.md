@@ -2,6 +2,7 @@
 
 # Bilan moral
 
+un bilan moral un peut enrichit cette année notement sur la partie révision des status et futur évolution du réglement intérieur. 
 ____
 
 ## Respect des statuts 1/3
@@ -36,6 +37,42 @@ ____
   - utilisation prioritaire de logiciels libres (LaserWorks remplacé par Lightburn)
   - documentation ouverte des projets
   - diffusion du code des projets sous license libre
+
+____
+
+## Proposition de Révision des Statuts et du Règlement Intérieur
+
+Pourquoi une Révision ?
+
+- **Dépoussiérage :** Nous souhaitons moderniser et adapter nos statuts et règlement intérieur pour les aligner sur les besoins actuels de notre FabLab.
+
+- **Meilleure Visibilité :** Une mise à jour permettra d'assurer une meilleure compréhension de notre structure par les administrations, partenaires territoriaux et autres parties prenantes.
+
+- **Évolution en Employeur :** En tant qu'employeur, nous devons nous assurer que nos documents internes reflètent correctement notre structure, nos valeurs et nos engagements.
+
+Objectifs
+
+- **Clarté :** Rendre nos statuts et règlement intérieur plus clairs et accessibles pour tous les membres.
+
+- **Conformité :** S'assurer que nos documents respectent les normes en vigueur et correspondent à notre réalité organisationnelle actuelle.
+
+- **Adaptation :** Intégrer les évolutions liées à notre statut d'employeur et aux changements dans notre mode de fonctionnement.
+
+Implication des Membres - vote des statuts aujourd'hui
+
+- **Consultation :** Nous avons sollicité le plus largement possible les retours et suggestions tout au long du processus de révision.
+
+- **Assemblée Générale Ordinaire :** La version proposée des statuts et du règlement intérieur a été transmise par courriel et nous proposons de voter la modificaiton de nos statut lors de la présente Assemblée.
+
+- **Participation :** Le processus de révision se veut transparent, et chaque membre aura l'occasion de suggerer des amandement durant l'année à venir. n'hésitez pas à vous impliquer dnas la révision de notre réglement intérieur.
+
+---
+
+Vos Idées et Retours sont Importants ! pour notre réglement intérieur (qui sera voté en CA en Février)
+
+- **Partagez vos idées :** Nous encourageons chaque membre à partager ses idées et suggestions pour façonner ensemble le futur de notre FabLab.
+
+- **sollicitez votre CA :** Le document original et le travail de révision sont accéssibles en ligne sur le wiki d FabLab, n'hésitez pas à le consulté, proposé directement sur le wiki ou par courriel à bureau@fablab-lannion.com .
 
 ____
 
