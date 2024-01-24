@@ -2,7 +2,7 @@
 
 # Bilan moral
 
-un bilan moral un peut enrichit cette année notement sur la partie révision des status et futur évolution du réglement intérieur. 
+un bilan moral un peu enrichi cette année notamment sur la partie révision des statuts et future évolution du réglement intérieur. 
 ____
 
 ## Respect des statuts 1/3
@@ -72,7 +72,7 @@ Vos Idées et Retours sont Importants ! pour notre réglement intérieur (qui se
 
 - **Partagez vos idées :** Nous encourageons chaque membre à partager ses idées et suggestions pour façonner ensemble le futur de notre FabLab.
 
-- **sollicitez votre CA :** Le document original et le travail de révision sont accéssibles en ligne sur le wiki d FabLab, n'hésitez pas à le consulté, proposé directement sur le wiki ou par courriel à bureau@fablab-lannion.com .
+- **sollicitez votre CA :** Le document original et le travail de révision sont accéssibles en ligne sur le wiki d FabLab, n'hésitez pas à le consulter, proposez directement sur le wiki ou par courriel à bureau@fablab-lannion.com .
 
 ____
 
@@ -149,4 +149,4 @@ n'oubliez pas le temps des proposition et suggestions durant le verre de l'amiti
 
 ____
 
-on passe au vote ! (?) 
+on passe aux votes ! (?) 
