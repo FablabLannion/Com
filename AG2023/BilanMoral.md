@@ -7,7 +7,7 @@ ____
 
 ## Respect des statuts 1/3
 
-- Fablab (référence MIT) : [AAAB](http://wiki.fablab.is/wiki/Fab_Lab_conformity_rating)
+- Fablab (référence MIT) : [AAAA](http://wiki.fablab.is/wiki/Fab_Lab_conformity_rating)
   - 🇦 ouverture à tous 😊
   - 🇦 charte des fablab 😊
   - 🇦(++) matériel de référence 😊
