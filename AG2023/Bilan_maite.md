@@ -1,10 +1,6 @@
 <!-- .slide: data-background="#000" class="chapter" -->
 
-# Bilan d'activité 2023
-
-Extrêmement riche !
-Voir : [Activités 2023](https://wiki.fablab-lannion.org/index.php?title=Bilan_d%27activit%C3%A9s_2023)
-____
+# Bilan 2023
 ## Amélioration de la diversité de genre
 
 Mission 2023 au FabLab de Lannion
@@ -162,3 +158,13 @@ ____
 - Mise en place du projet récurrent de fabrication d'une tricotteuse à chaussette (impression 3D, électronique)
 - Planification d'ateliers 100% nanas (guide MakeHerSpace) 
 - Ouverture d'un créneau d'open atelier 100% nanas
+
+
+
+
+
+
+
+
+
+

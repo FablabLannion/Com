@@ -3,6 +3,8 @@
 Le plus simple est d'utiliser python :
     cd Com/
     python -m SimpleHTTPServer 8080
+    ou
+    python3 -m http.server 8080
 et de pointer son navigateur sur *http://localhost:8080/AG2017/*
 
 
